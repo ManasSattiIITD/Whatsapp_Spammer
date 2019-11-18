@@ -1,5 +1,5 @@
 # Whatsapp_Spammer
-Software to spam your friends whatsapp. Intended for fun only. 
+Software to spam your friend's whatsapp. Intended for fun only. 
 
 Requirements:-
   0. chrome browser and chromedriver(find it along the code) 
