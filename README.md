@@ -2,7 +2,7 @@
 Software to spam your friends whatsapp. Intended for fun only. 
 
 Requirements:-
-  0. chromedriver
+  0. chrome browser and chromedriver(find it along the code) 
   1. python 3
   2. jupyter
   3. selenium module (install using pip)
